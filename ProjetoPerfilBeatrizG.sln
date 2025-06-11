@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{721886B6-F1D0-4974-9A43-42AF16B122AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{FE176954-50D1-40D4-9F23-9B7524B0F377}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{5C364779-5661-4C25-9110-99E450D98076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{0BB3FE93-089D-4DA8-BB1D-B5E74DBCAE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPerfilBeatrizG.Domain", "ProjetoPerfilBeatrizG.Domain\ProjetoPerfilBeatrizG.Domain.csproj", "{1EBA43F6-0573-4414-9784-2AAFE8793305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBA43F6-0573-4414-9784-2AAFE8793305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBA43F6-0573-4414-9784-2AAFE8793305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBA43F6-0573-4414-9784-2AAFE8793305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBA43F6-0573-4414-9784-2AAFE8793305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EBA43F6-0573-4414-9784-2AAFE8793305} = {721886B6-F1D0-4974-9A43-42AF16B122AE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758C7764-1EAA-429B-BD67-C7DAF7B49DDA}
+	EndGlobalSection
+EndGlobal
